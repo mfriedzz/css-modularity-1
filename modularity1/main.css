@@ -29,3 +29,18 @@ progress::-webkit-progress-bar-value {
   -webkit-appearance: none;
   background: orangered;
 }
+
+/*data-table */
+.data-table {
+		width: 100%;
+}
+
+.data-table td,th {
+		padding:10px;
+		border-bottom: solid 1px #ccc;
+}
+
+.data-table tr: last-child td {
+		border-bottom: 0;
+		}
+		
