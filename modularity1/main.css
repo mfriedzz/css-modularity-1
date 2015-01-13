@@ -1,0 +1,31 @@
+/* ADD YOUR STYLES HERE */
+
+.instruction-answer   td {
+	
+	border-bottom: thin solid grey;
+	padding: 25px;
+	border-spacing: 5px ;
+	border-collapse: collapse;
+
+}
+
+.instructor-answer th {
+	text-align:left;
+	float:left;
+	font-weight: bold;
+
+}
+.instruction-answer table {
+
+	border-spacing: 10px;
+}
+
+.second td {
+	border-top: thin solid grey;
+	border-bottom: thin solid grey;
+	table.instructor-answer tr > td: ;
+}
+progress::-webkit-progress-bar-value {
+  -webkit-appearance: none;
+  background: orangered;
+}
