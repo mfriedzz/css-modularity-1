@@ -103,4 +103,14 @@ progress::-webkit-progress-bar-value {
 }
 
 
+/*  Media */
+
+.media-url {
+	float: left;
+	margin-right: 10px;
+	margin-bottom:  10px;
+}
 		
+.media-text {
+	overflow:  hidden;
+}
